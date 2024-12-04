@@ -536,6 +536,10 @@ if ( player_local ) {
 						draw_sprite_ext( sready_up_ameli, 0,  8, 36+_ts, 1, 1, 0, c_white, 1 );
 						draw_sprite_ext( sameli_name_tag, 0,  8, 18-_ts, 1, 1, 0, c_white, 1 );
 					break;
+					case e_char_index.freia:
+						draw_sprite_ext( sready_up_freia, 0,  8, 36+_ts, 1, 1, 0, c_white, 1 );
+						draw_sprite_ext( sameli_name_tag, 0,  8, 18-_ts, 1, 1, 0, c_white, 1 );
+					break;
 				}
 			}
 			

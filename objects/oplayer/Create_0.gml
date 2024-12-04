@@ -69,6 +69,7 @@ enum e_char_index {
 	fern,
 	maya,
 	ameli,
+	freia,
 }
 char_index = e_char_index.fern;
 grapple_mode = 0; 

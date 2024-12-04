@@ -33,6 +33,7 @@ switch( meta_state ) {
 			ICD( xx+20+00, yy+203, 0, oplayer_select_fern   );
 			ICD( xx+20+40, yy+203, 0, oplayer_select_maya   );
 			ICD( xx+20+80, yy+203, 0, oplayer_select_ameli  );
+			ICD(xx+20+120, yy+203, 0, oplayer_select_freia  );
 			
 			ICD( 8, 324+1, 0, obutton_rollback_text );
 			
